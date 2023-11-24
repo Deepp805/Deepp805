@@ -13,7 +13,7 @@
 
 I'm a current Junior at Boston University majoring in Computer Science. 
 
-- 🌱 I’m currently doing Undergraduate Distributed Systems Research
+- 🌱 I’m currently doing Undergraduate Research
 
 - 📫 How to reach me: **deeppatel1944@gmail.com**
 
