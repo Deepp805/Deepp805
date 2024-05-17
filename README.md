@@ -11,7 +11,7 @@
 
 <h1 align="center">Hi 👋, I'm Deep Patel</h1>
 
-I'm a current Junior at Boston University majoring in Computer Science. 
+I'm a current Senior at Boston University majoring in Computer Science. 
 
 - 📫 How to reach me: **deeppatel1944@gmail.com**
 
